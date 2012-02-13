@@ -4,6 +4,9 @@ More info can be found at http://www.spritle.com/blogs/2012/02/13/scrollable-con
 
 Vinothini, Spritle Software
 
+The Following screenshots are took from real samsung galaxy y
 <img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage.png" />
-
-!http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png!
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png" />
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png" />
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png" />
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png" />
