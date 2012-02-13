@@ -5,16 +5,16 @@ More info can be found at http://www.spritle.com/blogs/2012/02/13/scrollable-con
 Vinothini, Spritle Software
 
 The Following screenshots are took from real samsung galaxy y <br/>
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage.png" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png" />&nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png" /> &nbsp;&nbsp;&nbsp; <br/>
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage.png" /></a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png" /></a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png" /></a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png" /></a> &nbsp;&nbsp;&nbsp; <br/>
 
 The Following screenshots are took from iphone simulator <br/>
 
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png" height="300" width="159" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical.png" height="300" width="159" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal.png" height="300" width="159" />&nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll1.png" height="300" width="159" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div_scroll.png" height="300" width="159" /> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png" height="300" width="159" /></a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical.png" height="300" width="159" /></a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal.png" height="300" width="159" /></a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll1.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll1.png" height="300" width="159" /></a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div_scroll.png" height="300" width="159" /></a> &nbsp;&nbsp;&nbsp;
