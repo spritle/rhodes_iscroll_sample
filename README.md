@@ -9,4 +9,12 @@ The Following screenshots are took from real samsung galaxy y <br/>
 <img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png" /> &nbsp;&nbsp;&nbsp;
 <img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png" />&nbsp;&nbsp;&nbsp;
 <img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png" /> &nbsp;&nbsp;&nbsp;
-<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png" /> &nbsp;&nbsp;&nbsp;
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png" /> &nbsp;&nbsp;&nbsp; <br/>
+
+The Following screenshots are took from iphone simulator <br/>
+
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png" /> &nbsp;&nbsp;&nbsp;
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical.png" /> &nbsp;&nbsp;&nbsp;
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal.png" />&nbsp;&nbsp;&nbsp;
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll1.png" /> &nbsp;&nbsp;&nbsp;
+<img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div_scroll.png" /> &nbsp;&nbsp;&nbsp;
