@@ -4,14 +4,14 @@ More info can be found at http://www.spritle.com/blogs/2012/02/13/scrollable-con
 
 Vinothini, Spritle Software
 
-The Following screenshots are took from real samsung galaxy y <br/>
+The following screenshots were taken from Samsung Galaxy Y device <br/>
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage.png" /></a> &nbsp;&nbsp;&nbsp;
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical_scroll.png" /></a> &nbsp;&nbsp;&nbsp;
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/horizontal_scroll.png" /></a>&nbsp;&nbsp;&nbsp;
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/carousel_scroll.png" /></a> &nbsp;&nbsp;&nbsp;
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/fixed_height_div.png" /></a> &nbsp;&nbsp;&nbsp; <br/>
 
-The Following screenshots are took from iphone simulator <br/>
+The following screenshots were taken from iPhone simulator - iOS 5 <br/>
 
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/mainpage1.png" height="300" width="159" /></a> &nbsp;&nbsp;&nbsp;
 <a href="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical.png"><img src="http://www.spritle.com/blogs/wp-content/uploads/2012/02/vertical.png" height="300" width="159" /></a> &nbsp;&nbsp;&nbsp;
